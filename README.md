@@ -29,14 +29,24 @@ ideas into reliable, production-ready software.
 ---
 
 ## 🚀 Featured Projects
+
+- **YouTubeBooster AI** – AI-powered YouTube channel audit & growth insights  
+  👉 https://www.youtubeboosterai.com
+
+- **HybridRaceWorkouts** – HYROX-style training plans and performance-focused workouts  
+  👉 https://www.hybridraceworkouts.com
+
 - **AIWorkoutNow** – AI-powered workout generation platform  
   👉 https://aiworkoutnow.com
 
-- **GetTrainMate** – Fitness & training-focused SaaS platform  
-  👉 https://github.com/maxkantor/GetTrainMate
+- **Lucky Numbers Lab** – AI-driven number analysis and prediction experiments  
+  👉 https://luckynumberslab.com
 
-- **MaxKantorPortfolio** – Personal portfolio & live project showcase  
-  👉 https://maxkantorportfolio.com
+- **Doctor AI Bolit** – AI-powered health assistant and symptom guidance tool  
+  👉 https://doctoraibolit.com
+
+- **Max Kantor Cooking** – Recipe platform and content hub for practical cooking  
+  👉 https://maxkantorcooking.com
 
 ---
 
